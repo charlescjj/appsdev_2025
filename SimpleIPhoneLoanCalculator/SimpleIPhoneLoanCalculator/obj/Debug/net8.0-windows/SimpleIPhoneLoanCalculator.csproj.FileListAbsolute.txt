@@ -1,0 +1,17 @@
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\bin\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.exe
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\bin\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.deps.json
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\bin\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.runtimeconfig.json
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\bin\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.dll
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\bin\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.pdb
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\obj\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.Form1.resources
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\obj\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.csproj.GenerateResource.cache
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\obj\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\obj\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.AssemblyInfoInputs.cache
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\obj\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.AssemblyInfo.cs
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\obj\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.csproj.CoreCompileInputs.cache
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\obj\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.dll
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\obj\Debug\net8.0-windows\refint\SimpleIPhoneLoanCalculator.dll
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\obj\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.pdb
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\obj\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.genruntimeconfig.cache
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\obj\Debug\net8.0-windows\ref\SimpleIPhoneLoanCalculator.dll
+D:\Chapter 1\SimpleIPhoneLoanCalculator\SimpleIPhoneLoanCalculator\obj\Debug\net8.0-windows\SimpleIPhoneLoanCalculator.Properties.Resources.resources
